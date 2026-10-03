@@ -6,7 +6,7 @@ export function SiteFooter() {
       <div className="mx-auto grid max-w-7xl gap-10 px-5 py-14 md:grid-cols-[1.5fr_1fr_1fr] md:px-8">
         <div className="flex flex-col items-start gap-5">
           <a href="#" aria-label="Nora Création — retour en haut de la page">
-            <img src="/logo-full.svg" alt="Nora Création" className="h-12 w-auto object-contain" />
+            <img src="/logo-full.svg" alt="Nora Création" className="logo-img h-12 w-auto object-contain" />
           </a>
           <p className="max-w-xs text-sm leading-relaxed text-muted-foreground">
             Traiteur gastronomique et décoration événementielle pour des réceptions élégantes et inoubliables, partout au Maroc.

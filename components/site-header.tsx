@@ -17,8 +17,8 @@ export function SiteHeader() {
           className="flex shrink-0 items-center rounded-sm focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-ring"
           aria-label="Nora Création — retour en haut de la page"
         >
-          <img src="/favicon.svg" alt="" className="h-9 w-auto object-contain md:hidden" />
-          <img src="/logo-full.svg" alt="" className="hidden h-12 w-auto object-contain md:block" />
+          <img src="/favicon.svg" alt="" className="logo-img h-9 w-auto object-contain md:hidden" />
+          <img src="/logo-full.svg" alt="" className="logo-img hidden h-12 w-auto object-contain md:block" />
         </a>
 
         <nav aria-label="Navigation principale" className="hidden items-center gap-8 lg:flex">
