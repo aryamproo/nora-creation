@@ -22,7 +22,7 @@ export function Contact() {
             </li>
             <li className="flex items-center gap-3">
               <MapPin className="size-5 text-amber-400" aria-hidden="true" />
-              Oujda et alentours
+              Basés à Oujda, nous intervenons partout au Maroc
             </li>
           </ul>
         </div>

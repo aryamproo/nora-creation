@@ -9,7 +9,7 @@ export function SiteFooter() {
             <img src="/logo-full.svg" alt="Nora Création" className="h-12 w-auto object-contain" />
           </a>
           <p className="max-w-xs text-sm leading-relaxed text-muted-foreground">
-            Traiteur gastronomique et décoration événementielle pour des réceptions élégantes et inoubliables.
+            Traiteur gastronomique et décoration événementielle pour des réceptions élégantes et inoubliables, partout au Maroc.
           </p>
         </div>
 

@@ -18,7 +18,7 @@ const sans = Manrope({
 export const metadata: Metadata = {
   title: 'Nora Création — Traiteur & Décoration Événementielle',
   description:
-    "Nora Création, traiteur gastronomique et décoratrice événementielle : mariages, anniversaires, événements d'entreprise. Des réceptions sur mesure, élégantes et inoubliables.",
+    "Nora Création, traiteur gastronomique et décoratrice événementielle : mariages, anniversaires, événements d'entreprise. Basés à Oujda, nous intervenons partout au Maroc pour des réceptions sur mesure, élégantes et inoubliables.",
   icons: {
     icon: [{ url: '/favicon.svg', type: 'image/svg+xml' }],
   },
