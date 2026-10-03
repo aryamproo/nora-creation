@@ -7,7 +7,7 @@ export function Hero() {
   return (
     <section className="mx-auto grid max-w-7xl items-center gap-12 px-5 pb-20 pt-12 md:px-8 lg:grid-cols-2 lg:gap-16 lg:pb-28 lg:pt-20">
       <div className="flex flex-col gap-8">
-        <p className="text-xs font-semibold uppercase tracking-[0.3em] text-accent">Traiteur & Décoration</p>
+        <p className="text-xs font-semibold uppercase tracking-[0.3em] text-accent">Traiteur & Décoration · Partout au Maroc</p>
         <h1 className="text-balance font-serif text-5xl font-medium leading-[1.05] tracking-tight md:text-6xl lg:text-7xl">
           L&apos;art de recevoir, <em className="font-normal italic text-accent">sublimé</em>.
         </h1>
