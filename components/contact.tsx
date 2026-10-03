@@ -16,8 +16,8 @@ export function Contact() {
           <ul className="mt-4 flex flex-col gap-4 text-primary-foreground/85">
             <li className="flex items-center gap-3">
               <Phone className="size-5 text-amber-400" aria-hidden="true" />
-              <a href="tel:+33612345678" className="hover:underline">
-                +33 6 12 34 56 78
+              <a href="tel:+212667071207" className="hover:underline">
+                +212 6 67 07 12 07
               </a>
             </li>
             <li className="flex items-center gap-3">
@@ -28,7 +28,7 @@ export function Contact() {
             </li>
             <li className="flex items-center gap-3">
               <MapPin className="size-5 text-amber-400" aria-hidden="true" />
-              Île-de-France et alentours
+              Oujda et alentours
             </li>
           </ul>
         </div>

@@ -24,8 +24,8 @@ export function SiteFooter() {
 
         <div className="flex flex-col gap-3">
           <h2 className="text-xs font-semibold uppercase tracking-[0.2em]">Contact</h2>
-          <a href="tel:+33612345678" className="text-sm text-muted-foreground hover:text-accent">
-            +33 6 12 34 56 78
+<a href="tel:+212667071207" className="text-sm text-muted-foreground hover:text-accent">
+              +212 6 67 07 12 07
           </a>
           <a href="mailto:contact@noracreation.fr" className="text-sm text-muted-foreground hover:text-accent">
             contact@noracreation.fr
