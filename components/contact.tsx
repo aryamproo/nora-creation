@@ -1,4 +1,4 @@
-import { Mail, MapPin, Phone } from 'lucide-react'
+import { MapPin, Phone } from 'lucide-react'
 import { ContactForm } from '@/components/contact-form'
 
 export function Contact() {
@@ -18,12 +18,6 @@ export function Contact() {
               <Phone className="size-5 text-amber-400" aria-hidden="true" />
               <a href="tel:+212667071207" className="hover:underline">
                 +212 6 67 07 12 07
-              </a>
-            </li>
-            <li className="flex items-center gap-3">
-              <Mail className="size-5 text-amber-400" aria-hidden="true" />
-              <a href="mailto:contact@noracreation.fr" className="hover:underline">
-                contact@noracreation.fr
               </a>
             </li>
             <li className="flex items-center gap-3">
